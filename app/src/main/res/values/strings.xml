@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Корректор QR-code</string>
+    <string name="ScanStart">Сканировать</string>
+    <string name="ScanOff">Остановить</string>
+    <string name="scanText">Сканирование</string>
+    <string name="title_activity_scaner">ScanerActivity</string>
+    <string name="startScan">Сканировать</string>
+    <string name="createScan">Создать QR</string>
+    <string name="title_activity_create_qr">Режим свободного создания ДЩК</string>
+    <string name="title_activity_create_qr_analitic">Режим структурного создания ДЩК</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="testValue">Тестовое значение вывода на экран</string>
+</resources>
