@@ -17,7 +17,8 @@ public class SqlHelMain extends SQLiteOpenHelper {
                 + "id integer primary key autoincrement,"
                 + "name text,"
                 + "valueText text,"
-                + "type text" + ");");
+                + "type text,"
+                + "encoding text" + ");");
 
         db.execSQL("create table mytagstable ("
                 + "id integer primary key autoincrement,"
